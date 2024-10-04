@@ -9,3 +9,4 @@ modules/__pycache__/
 models/
 modules/yt_tmp.wav
 configs/default_parameters.yaml
+docker-compose.yaml
